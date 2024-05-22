@@ -2,8 +2,10 @@
     "python.analysis.autoImportCompletions": true,
     "cSpell.words": [
         "badpass",
+        "Daal",
         "goodpass",
         "indian",
+        "notanimage",
         "Pongal"
     ]
 }
